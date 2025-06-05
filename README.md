@@ -70,7 +70,7 @@ Gained insights into how AI can support financial decision-making
 📌 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/Keerthi285820/loan-approval-prediction.git
 cd loan-approval-prediction
 2. Install required packages:
 pip install -r requirements.txt
